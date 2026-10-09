@@ -1,0 +1,33 @@
+{
+  "id": "wow-parting-clouds-urxehl-ritual-site",
+  "title": "WoW - Parting Clouds - Urxehl ritual site",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "13",
+    "verified": "14"
+  },
+  "authors": [
+    {
+      "name": "Workshop of Wonders",
+      "url": "https://www.patreon.com/workshop_of_wonders",
+      "flags": {}
+    }
+  ],
+  "flags": {
+    "canUpload": true
+  },
+  "packs": [
+    {
+      "name": "scene",
+      "label": "Urxehl ritual site",
+      "path": "packs/scene",
+      "type": "Scene",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    }
+  ],
+  "description": ""
+}
